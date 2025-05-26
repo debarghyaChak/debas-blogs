@@ -22,7 +22,7 @@ export default function About() {
               <div className="w-full md:w-1/3 flex justify-center items-center mb-8 md:mb-0">
                 <div className="relative w-56 h-56 rounded-full overflow-hidden">
                   <Image
-                    src="/dp2.JPG"
+                    src="/dp2.jpg"
                     alt="Profile"
                     layout="fill"
                     objectFit="cover"
